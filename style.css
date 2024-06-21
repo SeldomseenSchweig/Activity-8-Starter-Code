@@ -11,3 +11,10 @@ section{
   position: relative;
   overflow: hidden;
 }
+
+section img{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
